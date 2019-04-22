@@ -29,3 +29,17 @@ p {
     margin-right: 0px;
     margin-left: 0px;
 }
+
+.holder {
+    padding: 20px 5px 20px 0px;
+    height: 400px;
+    width: 400px;
+}
+
+#contact {
+    padding-left: 10px;
+}
+
+#portfolio {
+    padding-left: 10px;
+}
