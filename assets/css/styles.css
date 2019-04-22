@@ -3,3 +3,29 @@ body {
     background-size: cover;
     background-repeat: no-repeat;
 }
+
+.container {
+    background-color: white;
+    margin-top: 2em;
+    margin-bottom: 2em;
+    padding: 10px 10px 10px 10px;
+}
+
+#me {
+    float: left;
+    padding: 10px 10px 10px 5px;
+}
+
+p {
+    padding: 5px 10px;
+}
+
+#comments {
+    height: 600px;
+    padding-bottom: 10px;
+}
+
+.row {
+    margin-right: 0px;
+    margin-left: 0px;
+}
