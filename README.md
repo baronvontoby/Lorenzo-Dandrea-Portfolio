@@ -1,2 +1,1 @@
-# Bootstrap-Portfolio
-bootstrap homework repository 1
+This is a resume and portfolio site to showcase my skills over the past 3 months.
